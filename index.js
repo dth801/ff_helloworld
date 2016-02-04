@@ -28,3 +28,5 @@ var menuItem = contextMenu.Item({
 		console.log(selectionText);
 	}
 });
+
+// test
